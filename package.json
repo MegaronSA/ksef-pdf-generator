@@ -1,5 +1,5 @@
 {
-  "name": "@akmf/ksef-fe-invoice-converter",
+  "name": "@megaronsa/ksef-fe-invoice-converter",
   "version": "0.0.42",
   "scripts": {
     "dev": "vite --mode public --config vite.config.ts",
