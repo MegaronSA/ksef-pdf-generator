@@ -13,13 +13,6 @@
   "module": "./ksef-fe-invoice-converter.js",
   "types": "./index.d.ts",
   "type": "module",
-  "exports": {
-    ".": {
-      "types": "./index.d.ts",
-      "import": "./ksef-fe-invoice-converter.js",
-      "require": "./ksef-fe-invoice-converter.umd.cjs"
-    }
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
